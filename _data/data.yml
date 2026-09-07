@@ -8,19 +8,19 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
+  name: Sergi Conde
   tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: sergicondees@email.com
+  phone: 690753940
+  timezone: Spain/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: sergiconde
+  xing: sergiconde
+  github: sergicondees
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -37,13 +37,13 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Catalan
       level: Native
 
-    - idiom: French
-      level: Professional
-
     - idiom: Spanish
+      level: Native
+
+    - idiom: English
       level: Professional
 
   interests:
@@ -64,12 +64,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Estudiant de la UDL
 education:
   title: Education
   info:
